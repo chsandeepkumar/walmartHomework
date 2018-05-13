@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalmartHW.API", "WalmartHW.SPA\WalmartHW.API.csproj", "{49C7956A-A8B1-472B-AE42-78178840AD70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalmartHW.SPA.Tests", "WalmartHW.SPA.Tests\WalmartHW.SPA.Tests.csproj", "{47252515-7B1A-4BA4-8E6C-1F1237DF325D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C7956A-A8B1-472B-AE42-78178840AD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C7956A-A8B1-472B-AE42-78178840AD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C7956A-A8B1-472B-AE42-78178840AD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C7956A-A8B1-472B-AE42-78178840AD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47252515-7B1A-4BA4-8E6C-1F1237DF325D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47252515-7B1A-4BA4-8E6C-1F1237DF325D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47252515-7B1A-4BA4-8E6C-1F1237DF325D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47252515-7B1A-4BA4-8E6C-1F1237DF325D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3D033B9-2271-4F38-B7B0-6C16B99AE146}
+	EndGlobalSection
+EndGlobal
