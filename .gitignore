@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WalmartHW.SPA/.vs/WalmartHW.SPA/v15/Server/sqlite3
