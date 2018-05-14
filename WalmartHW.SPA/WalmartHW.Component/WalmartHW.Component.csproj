@@ -46,6 +46,9 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Contracts\IWalmartAPI.cs" />
     <Compile Include="Helper\WalmartRestClient.cs" />
+    <Compile Include="Helper\WalmartSearchQuery.cs" />
+    <Compile Include="Model\Attributes.cs" />
+    <Compile Include="Model\BestMarketplacePrice.cs" />
     <Compile Include="Model\GiftOptions.cs" />
     <Compile Include="Model\ImageEntity.cs" />
     <Compile Include="Model\Item.cs" />

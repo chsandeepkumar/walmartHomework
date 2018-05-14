@@ -10,5 +10,9 @@ namespace WalmartHW.Component.Helper
         {
             return $"http://api.walmartlabs.com/v1/search?query={seacrchItem}&format={responceFormat}&apiKey={apiKey}";
         }
+        public static string ProductLookupAPI(int itemId)
+        {
+            return $"http://api.walmartlabs.com/v1/items/{itemId}&format={responceFormat}&apiKey={apiKey}";
+        }
     }
 }

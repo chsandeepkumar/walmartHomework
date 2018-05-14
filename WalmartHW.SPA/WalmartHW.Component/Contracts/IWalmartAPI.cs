@@ -7,6 +7,6 @@ namespace WalmartHW.Component.Contracts
     interface IWalmartAPI
     {
         Task<List<Product>> SearchProductAsync(string SearchItem);
-        Task<Product> GetProductDetailsAsync(string ItemId);
+        Task<Product> GetProductDetailsAsync(int ItemId);
     }
 }

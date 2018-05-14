@@ -49,9 +49,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attributes.cs" />
+    <Compile Include="BestMarketplacePrice.cs" />
+    <Compile Include="GiftOptions.cs" />
+    <Compile Include="ImageEntity.cs" />
+    <Compile Include="Item.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RootObject.cs" />
     <Compile Include="Welcome.cs" />
   </ItemGroup>
   <ItemGroup>

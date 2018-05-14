@@ -20,5 +20,17 @@ namespace WalmartHW.Component.Helper
                        ThumbnailImageurl = item.ThumbnailImage
                    };
         }
+        internal static Product ExtractRequiredProductDetails(RootObject searchDetails, int ProductId)
+        {
+            Item result = searchDetails.Items.Single(item => item.ParentItemId == ProductId);
+            Product requiredproduct = new Product
+            {
+                Name = result.Name,
+                Description = result.ShortDescription,
+                Price = result.SalePrice,
+                ThumbnailImageurl = result.ThumbnailImage
+            };
+            return requiredproduct;
+        }
     }
 }
