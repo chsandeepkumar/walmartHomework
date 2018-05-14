@@ -1,0 +1,11 @@
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\SampleRestClient.Console.exe.config
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\SampleRestClient.Console.exe
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\SampleRestClient.Console.pdb
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\System.Net.Http.Formatting.dll
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\System.Net.Http.Formatting.xml
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.csprojResolveAssemblyReference.cache
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.csproj.CoreCompileInputs.cache
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.exe
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.pdb

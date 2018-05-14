@@ -46,3 +46,6 @@ C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SP
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA\obj\Debug\WalmartHW.API.csproj.CoreCompileInputs.cache
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA\obj\Debug\WalmartHW.SPA.dll
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA\obj\Debug\WalmartHW.SPA.pdb
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA\bin\System.Web.Cors.dll
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA\bin\System.Web.Http.Cors.dll
+C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA\bin\System.Web.Http.Cors.xml

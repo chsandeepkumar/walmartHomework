@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalmartHW.API", "WalmartHW.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalmartHW.SPA.Tests", "WalmartHW.SPA.Tests\WalmartHW.SPA.Tests.csproj", "{47252515-7B1A-4BA4-8E6C-1F1237DF325D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalmartHW.Component", "WalmartHW.Component\WalmartHW.Component.csproj", "{61D6180C-2663-41C8-8169-F3530E6B9670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleRestClient.Console", "SampleRestClient.Console\SampleRestClient.Console.csproj", "{B466E823-F8CD-481E-AACA-F5EEBDAE7813}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{47252515-7B1A-4BA4-8E6C-1F1237DF325D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47252515-7B1A-4BA4-8E6C-1F1237DF325D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47252515-7B1A-4BA4-8E6C-1F1237DF325D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D6180C-2663-41C8-8169-F3530E6B9670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D6180C-2663-41C8-8169-F3530E6B9670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D6180C-2663-41C8-8169-F3530E6B9670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D6180C-2663-41C8-8169-F3530E6B9670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B466E823-F8CD-481E-AACA-F5EEBDAE7813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B466E823-F8CD-481E-AACA-F5EEBDAE7813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B466E823-F8CD-481E-AACA-F5EEBDAE7813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B466E823-F8CD-481E-AACA-F5EEBDAE7813}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
