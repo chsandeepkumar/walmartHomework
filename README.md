@@ -15,3 +15,8 @@ UI Layer
  
  Deployment
  Yet complete, i will update the commandline based articles soon
+
+
+How to RUn
+
+ You can download source code from github repository and run the application using Microsoft Visual studio 2017 
