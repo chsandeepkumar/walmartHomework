@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Contracts\IWalmartAPI.cs" />
     <Compile Include="Helper\WalmartRestClient.cs" />
     <Compile Include="Helper\WalmartSearchQuery.cs" />
