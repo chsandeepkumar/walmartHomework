@@ -39,3 +39,44 @@ C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SP
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\obj\Debug\WalmartHW.SPA.Tests.csproj.CoreCompileInputs.cache
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\obj\Debug\WalmartHW.SPA.Tests.dll
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\obj\Debug\WalmartHW.SPA.Tests.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\ApplicationInsights.config
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\WalmartHW.SPA.Tests.dll.config
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\WalmartHW.SPA.Tests.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\WalmartHW.SPA.Tests.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Http.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Razor.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\WalmartHW.SPA.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\WalmartHW.SPA.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\WalmartHW.SPA.dll.config
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Http.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Razor.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\obj\Debug\WalmartHW.SPA.Tests.csprojResolveAssemblyReference.cache
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\obj\Debug\WalmartHW.SPA.Tests.csproj.CoreCompileInputs.cache
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\obj\Debug\WalmartHW.SPA.Tests.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.SPA.Tests\obj\Debug\WalmartHW.SPA.Tests.pdb
