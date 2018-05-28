@@ -9,3 +9,29 @@ C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SP
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.csproj.CoreCompileInputs.cache
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.exe
 C:\Sandeep\.Net Study\web Projects\WalmartExcercise\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\SampleRestClient.Console.exe.config
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\SampleRestClient.Console.exe
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\SampleRestClient.Console.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\CommonServiceLocator.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\System.Net.Http.Formatting.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Abstractions.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Configuration.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Container.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Interception.Configuration.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Interception.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.ServiceLocation.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\CommonServiceLocator.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\System.Net.Http.Formatting.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Abstractions.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Configuration.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Container.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Interception.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\bin\Debug\Unity.ServiceLocation.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.csproj.CoreCompileInputs.cache
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.exe
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\SampleRestClient.Console\obj\Debug\SampleRestClient.Console.pdb

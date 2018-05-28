@@ -5,3 +5,10 @@ C:\Study\Workouts\WalmartHW.SPA\WalmartHW.Component\bin\Debug\Newtonsoft.Json.xm
 C:\Study\Workouts\WalmartHW.SPA\WalmartHW.Component\obj\Debug\WalmartHW.Component.csproj.CoreCompileInputs.cache
 C:\Study\Workouts\WalmartHW.SPA\WalmartHW.Component\obj\Debug\WalmartHW.Component.dll
 C:\Study\Workouts\WalmartHW.SPA\WalmartHW.Component\obj\Debug\WalmartHW.Component.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.Component\bin\Debug\WalmartHW.Component.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.Component\bin\Debug\WalmartHW.Component.pdb
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.Component\bin\Debug\Newtonsoft.Json.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.Component\bin\Debug\Newtonsoft.Json.xml
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.Component\obj\Debug\WalmartHW.Component.csproj.CoreCompileInputs.cache
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.Component\obj\Debug\WalmartHW.Component.dll
+C:\Study\Workouts\Walmart1.x\walmartHomework\WalmartHW.SPA\WalmartHW.Component\obj\Debug\WalmartHW.Component.pdb
