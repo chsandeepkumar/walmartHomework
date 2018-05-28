@@ -4,9 +4,9 @@ using WalmartHW.Component.Model;
 
 namespace WalmartHW.Component.Contracts
 {
-    interface IWalmartAPI
+   public interface IWalmartApi
     {
-        Task<List<Product>> SearchProductAsync(string SearchItem);
-        Task<Product> GetProductDetailsAsync(int ItemId);
+        Task<List<Product>> SearchProductAsync(string searchItem);
+        Task<Product> GetProductDetailsAsync(int itemId);
     }
 }

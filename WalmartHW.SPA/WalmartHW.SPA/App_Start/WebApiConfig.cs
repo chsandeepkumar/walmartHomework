@@ -1,4 +1,9 @@
 ﻿using System.Web.Http;
+using Unity;
+using Unity.Lifetime;
+using Unity.WebApi;
+using WalmartHW.Component.Contracts;
+using WalmartHW.Component.Service;
 
 namespace WalmartHW.SPA
 {
@@ -7,7 +12,8 @@ namespace WalmartHW.SPA
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-
+    
+          
             // Web API routes
             config.MapHttpAttributeRoutes();
 

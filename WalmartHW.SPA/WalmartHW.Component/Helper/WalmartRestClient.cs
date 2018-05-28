@@ -1,18 +1,16 @@
-﻿using System.Net.Http;
-
-namespace WalmartHW.Component.Helper
+﻿namespace WalmartHW.Component.Helper
 {
-    public class WalmartAPI
+    public class WalmartRestClient
     {
-        static readonly string responceFormat = "json";
-        static readonly string apiKey = "588qtynkrn6pjyeehznu72bh";
-        public static string SerachAPIRequest(string seacrchItem)
+        private const string ResponseFormat = "json";
+        private static readonly string ApiKey = "588qtynkrn6pjyeehznu72bh";
+        public static string SearchApiRequest(string searchItem)
         {
-            return $"http://api.walmartlabs.com/v1/search?query={seacrchItem}&format={responceFormat}&apiKey={apiKey}";
+            return $"http://api.walmartlabs.com/v1/search?query={searchItem}&format={ResponseFormat}&apiKey={ApiKey}";
         }
-        public static string ProductLookupAPI(int itemId)
+        public static string ProductLookupApi(int itemId)
         {
-            return $"http://api.walmartlabs.com/v1/items/{itemId}&format={responceFormat}&apiKey={apiKey}";
+            return $"http://api.walmartlabs.com/v1/items/{itemId}&format={ResponseFormat}&apiKey={ApiKey}";
         }
     }
 }
