@@ -13,10 +13,7 @@ UI Layer
  Testing
  Created basic Unit testing projects for Service layer and UI , which we can configure as part of CI/CD.
  
- Deployment
- Yet complete, i will update the commandline based articles soon
 
+How to RUun
 
-How to RUn
-
- You can download source code from github repository and run the application using Microsoft Visual studio 2017 
+ You can download source code from github repository and run the application using Microsoft Visual studio 2017.The Moment you run using visual studio, WEB API Project and UI project will run automtically.
